@@ -12,7 +12,7 @@ Learning Vim basics can significantly improve my productivity when editing text 
 3. [Learning Awk Is Essential For Linux Users](https://www.youtube.com/watch?v=9YOZmI-zWok) <br/>
 AWK supports regular expressions, which are powerful for pattern matching and searching within text.
 
-# Week 02
+## Week 02
 1. [Cyber Security Introduction (Cyber Security Part 1)](https://www.youtube.com/watch?v=rcDO8km6R6c) <br/>
 I gain a profound understanding of the ethical implications and societal responsibilities that come with cybersecurity. It's not just about protecting data; it's about protecting individuals, organizations, and even nations from potential harm.
 2. [Employee Security Policy (Cyber Security Part 2)](https://www.youtube.com/watch?v=CivG_2UqKMg) <br/>
@@ -29,3 +29,9 @@ This understanding helps in grasping the roles and functions of each directory w
 This dynamic aspect of memory management adds depth to the study of contiguous memory allocation in OS design.
 2. [Paging (OS)](https://www.youtube.com/watch?v=LKYKp_ZzlvM) <br/>
 the study of Paging holds both intellectual and practical value in computer system development and computer science as a whole.
+
+## Week 05
+1. [Demand Paging And Page Faults](https://www.youtube.com/watch?v=58TYdisGrX0) <br/>
+I have gained an understanding of demand paging that can assist me in comprehending system security and identifying potential security risks related to memory management.
+2. [Thrashing (OS)](https://www.youtube.com/watch?v=vtyXZWp9Fsk) <br/>
+If I encounter thrashing issues in the system I manage, this understanding can assist me in troubleshooting. I can identify the causes and take necessary corrective actions.

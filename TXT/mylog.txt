@@ -42,3 +42,11 @@ ZCZC W04 20 L32 YouTube: watching OS related topics, etc.
 ZCZC W04 15 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 90 L14 Assignment #04
 ZCZC W04 10 L41 TXT/mylog.txt related.
+ZCZC W05 20 L00 General, etc.
+ZCZC W05 20 L01 SCELE/Discord related
+ZCZC W05 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 12 L25 C-language including Make.
+ZCZC W05 20 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 70 L15 Assignment #05
+ZCZC W05 10 L41 TXT/mylog.txt related.
