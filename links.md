@@ -35,3 +35,9 @@ the study of Paging holds both intellectual and practical value in computer syst
 I have gained an understanding of demand paging that can assist me in comprehending system security and identifying potential security risks related to memory management.
 2. [Thrashing (OS)](https://www.youtube.com/watch?v=vtyXZWp9Fsk) <br/>
 If I encounter thrashing issues in the system I manage, this understanding can assist me in troubleshooting. I can identify the causes and take necessary corrective actions.
+
+## Week 06
+1. [Understanding fork() system call for new process creation](https://www.youtube.com/watch?v=PwxTbksJ2fo) <br/>
+I learn how to create multiple processes that can run in parallel, which is crucial for optimizing software performance on multi-cor systems.
+2. [Multithreading Models & Hyperthreading](https://www.youtube.com/watch?v=HW2Wcx-ktsc)<br/>
+I gain the ability to apply multithreading and hyperthreading concepts to real-world software development projects, making me a more versatile and capable programmer.

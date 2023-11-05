@@ -50,3 +50,10 @@ ZCZC W05 20 L32 YouTube: watching OS related topics, etc.
 ZCZC W05 60 L05 Quiz related including studying
 ZCZC W05 70 L15 Assignment #05
 ZCZC W05 10 L41 TXT/mylog.txt related.
+ZCZC W06 20 L00 General, etc.
+ZCZC W06 20 L01 SCELE/Discord related
+ZCZC W06 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 60 L05 Quiz related including studying
+ZCZC W06 15 L32 YouTube: watching OS related topics, etc.
+ZCZC W06 120 L13 Assignment #03
+ZCZC W06 10 L41 TXT/mylog.txt related.
