@@ -41,3 +41,8 @@ If I encounter thrashing issues in the system I manage, this understanding can a
 I learn how to create multiple processes that can run in parallel, which is crucial for optimizing software performance on multi-cor systems.
 2. [Multithreading Models & Hyperthreading](https://www.youtube.com/watch?v=HW2Wcx-ktsc)<br/>
 I gain the ability to apply multithreading and hyperthreading concepts to real-world software development projects, making me a more versatile and capable programmer.
+
+## Week 07
+1. [Everything you should know about deadlock in three minutes or less](https://www.youtube.com/watch?v=oEbXlSH8hyE) <br/>
+Understanding the significance of studying and addressing deadlocks in concurrent systems, where multiple processes or threads are executing simultaneously.2. [Quick explanation: Critical section. Critical section problem.](https://www.youtube.com/watch?v=BSX1YEoCVgA) <br/>
+Understanding the key requirements for a solution to the critical section problem, which typically include mutual exclusion, progress (ensuring that processes do not remain indefinitely in their critical section), and bounded waiting (guaranteeing that each process will eventually get into its critical section.
