@@ -47,3 +47,9 @@ I gain the ability to apply multithreading and hyperthreading concepts to real-w
 Understanding the significance of studying and addressing deadlocks in concurrent systems, where multiple processes or threads are executing simultaneously
 2. [Quick explanation: Critical section. Critical section problem.](https://www.youtube.com/watch?v=BSX1YEoCVgA) <br/>
 Understanding the key requirements for a solution to the critical section problem, which typically include mutual exclusion, progress (ensuring that processes do not remain indefinitely in their critical section), and bounded waiting (guaranteeing that each process will eventually get into its critical section.
+
+## Week 08
+1. [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) <br/>
+I learn how to replace an existing operating system with the LFS system on the disk.
+2. [CPU Scheduling Basics](https://www.youtube.com/watch?v=Jkmy2YLUbUY) <br/>
+Awareness of metrics used to evaluate the performance of scheduling algorithms, including turnaround time, waiting time, response time, and throughput.
