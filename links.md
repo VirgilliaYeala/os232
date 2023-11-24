@@ -53,3 +53,9 @@ Understanding the key requirements for a solution to the critical section proble
 I learn how to replace an existing operating system with the LFS system on the disk.
 2. [CPU Scheduling Basics](https://www.youtube.com/watch?v=Jkmy2YLUbUY) <br/>
 Awareness of metrics used to evaluate the performance of scheduling algorithms, including turnaround time, waiting time, response time, and throughput.
+
+## Week 09
+1.[Mass Storage System (Lanjutan)](https://www.youtube.com/watch?v=-6d842Mtt-I) <br/>
+Knowledge of the different disk scheduling algorithms and how they can be used to improve the performance of disk systems.
+2. [RAID level 0, 1, 5, 6 and 10 | Advantage, disadvantage, use](https://www.prepressure.com/library/technology/raid) <br/>
+Here is a comprehensive article about RAID. The article provides extensive information on RAID 0, 1, 5, 6, and 10. There are also visualizations to aid in better comprehension of the materials. I recommend this article as a starting point to understand the basics of RAID.
