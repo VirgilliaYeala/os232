@@ -55,7 +55,13 @@ I learn how to replace an existing operating system with the LFS system on the d
 Awareness of metrics used to evaluate the performance of scheduling algorithms, including turnaround time, waiting time, response time, and throughput.
 
 ## Week 09
-1.[Mass Storage System (Lanjutan)](https://www.youtube.com/watch?v=-6d842Mtt-I) <br/>
+1. [Mass Storage System (Lanjutan)](https://www.youtube.com/watch?v=-6d842Mtt-I) <br/>
 Knowledge of the different disk scheduling algorithms and how they can be used to improve the performance of disk systems.
 2. [RAID level 0, 1, 5, 6 and 10 | Advantage, disadvantage, use](https://www.prepressure.com/library/technology/raid) <br/>
 Here is a comprehensive article about RAID. The article provides extensive information on RAID 0, 1, 5, 6, and 10. There are also visualizations to aid in better comprehension of the materials. I recommend this article as a starting point to understand the basics of RAID.
+
+## Week 10
+1. [Linux From Scratch Chapter 08] (https://www.linuxfromscratch.org/lfs/view/11.0/chapter08/introduction.html) <br/>
+This week we are continuing the previous week by creating the linux from scratch, here’s the chapter 8.
+2. [Operating System - I/O Softwares] (https://www.tutorialspoint.com/operating_system/os_io_software.htm) <br/>
+We are also learning about Input/Output (I/O) in operating systems, and here is the explanation about the I/O software within operating systems.
